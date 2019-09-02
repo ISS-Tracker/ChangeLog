@@ -6,7 +6,7 @@ https://github.com/ISS-Tracker/API-Widget/issues
 
 Brakuje Ci jakiejś funkcji? Zgłoś do nas!
 
-———-
+———
 
 Information about errors / news in our map widget and API are available here:
 
