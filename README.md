@@ -16,3 +16,9 @@ Information about errors / news in our map widget and API are available here:
 https://github.com/ISS-Tracker/API-Widget/issues
 
 Are you missing a function? Report to us!
+
+
+# ChangeLog:
+Changelog ważniejszych zmian w systemie ISS Tracker
+
+https://isstracker.pl/changelog/
