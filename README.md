@@ -5,7 +5,7 @@
 
 Informacje o błędach / nowościach w naszym widget map oraz API dostępne są tutaj:
 
-https://github.com/ISS-Tracker/API-Widget/issues
+https://github.com/ISS-Tracker/ChangeLog/issues
 
 Brakuje Ci jakiejś funkcji? Zgłoś do nas!
 
@@ -13,7 +13,7 @@ Brakuje Ci jakiejś funkcji? Zgłoś do nas!
 
 Information about errors / news in our map widget and API are available here:
 
-https://github.com/ISS-Tracker/API-Widget/issues
+https://github.com/ISS-Tracker/AChangeLog/issues
 
 Are you missing a function? Report to us!
 
