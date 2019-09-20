@@ -9,6 +9,9 @@ website: https://isstracker.pl
 ### New
 
 - "Lajkowanie" przelotów ISS
+
+### Improvement
+
 - poprawiona obsługa miast na kolejnych podstronach przelotów 
 
 ## #22 Nowe podpowiedzi miast (2019-08-19 19:00)
