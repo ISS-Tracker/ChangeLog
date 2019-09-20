@@ -4,6 +4,12 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+## #23 Nowe podpowiedzi miast (2019-09-20 19:00)
+
+### New
+
+- "Lajkowanie" przelotów ISS
+
 ## #22 Nowe podpowiedzi miast (2019-08-19 19:00)
 
 ### New
