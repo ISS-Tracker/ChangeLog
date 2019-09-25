@@ -4,6 +4,16 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+## #23 Lajkowanie przelotów oraz usprwanienia (2019-09-25 18:30)
+
+### New
+
+- "Lajkowanie" przelotów ISS jest dostępne na stronach zbiorczych przelotów
+
+### Improvement
+
+- po autodetekcji współrzędnych są one dodawane automatycznie do adresu strony
+
 ## #23 Nowe podpowiedzi miast (2019-09-20 19:00)
 
 ### New
