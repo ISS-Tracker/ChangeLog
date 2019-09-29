@@ -4,7 +4,14 @@ website: https://isstracker.pl
 
 # ISSTracker
 
-## #23 Lajkowanie przelotów oraz usprwanienia (2019-09-25 18:30)
+
+## #25 Godziny przelotów - OG Tagi (2019-09-29 21:45)
+
+### New
+
+- na podstronach konkretnych przelotów generujemy nowe og Tagi - z podglądem mapy przelotu 
+
+## #24 Lajkowanie przelotów oraz usprwanienia (2019-09-25 18:30)
 
 ### New
 
