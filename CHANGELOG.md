@@ -4,6 +4,12 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+## #26 Godziny przelotów - wskazywanie pozycji (2019-09-30 20:45)
+
+### New
+
+- dla urządzeń moblinych udostępniona została mapa, na której można wskazać bezpośrednie położenie 
+
 
 ## #25 Godziny przelotów - OG Tagi (2019-09-29 21:45)
 
