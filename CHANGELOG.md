@@ -1,6 +1,5 @@
 ---
 website: https://isstracker.pl
-pretty changelog: https://isstracker.pl/changelog/
 ---
 
 # ISSTracker
