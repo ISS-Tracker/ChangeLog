@@ -4,6 +4,18 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+## #27 Nowa mapa topograficzna (2019-11-03 09:00)
+
+### New
+
+- nowa mapa topograficzna
+
+### Improvement
+
+- poprawa podstron wysokości ISS + cykliczna agregacja parametrów aktualnych satelit 
+
+
+
 ## #26 Godziny przelotów - wskazywanie pozycji (2019-09-30 20:45)
 
 ### New
@@ -16,6 +28,8 @@ website: https://isstracker.pl
 ### New
 
 - na podstronach konkretnych przelotów generujemy nowe og Tagi - z podglądem mapy przelotu 
+
+
 
 ## #24 Lajkowanie przelotów oraz usprwanienia (2019-09-25 18:30)
 
