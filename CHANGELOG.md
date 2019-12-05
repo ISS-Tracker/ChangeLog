@@ -4,6 +4,12 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+## #28 podstrony kosmodromów (2019-12-04 18:30)
+
+### New
+
+- nowe podstorny kosmodromów widoczne z podstron satelit: https://isstracker.pl/kosmodrom/tymsc
+
 ## #27 Nowa mapa topograficzna (2019-11-03 09:00)
 
 ### New
