@@ -9,6 +9,7 @@ website: https://isstracker.pl
 ### New
 
 - nowe podstorny kosmodromów widoczne z podstron satelit: https://isstracker.pl/kosmodrom/tymsc
+- wyszukiwarka satelit wyszukuje po wyniesionych satelitach z kosmodromów: https://isstracker.pl/satelity
 
 ## #27 Nowa mapa topograficzna (2019-11-03 09:00)
 
