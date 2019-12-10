@@ -4,6 +4,15 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+## #29 nowe UI wyszukiwarki satelit (2019-12-10 20:18)
+
+### Improvement
+- ulepszona wersja wyszukiwarki stron satelit
+
+### New
+- każda śledzona satelita posiada wykres średniej dziennej prędkości
+
+
 ## #28 podstrony kosmodromów (2019-12-04 18:30)
 
 ### New
