@@ -4,6 +4,14 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+## #30 kosmetyczne zmiany (2019-12-11 20:20)
+
+### Improvement
+- nowe komunikaty na przelotach (informujące o liczbie przelotów)
+- limit podpowiedzi: min 2 zniaki (było 3)
+- dodatkowe komunikaty na podstronach satelit (informujące o dacie agregacji)
+
+
 ## #29 nowe UI wyszukiwarki satelit (2019-12-10 20:18)
 
 ### Improvement
