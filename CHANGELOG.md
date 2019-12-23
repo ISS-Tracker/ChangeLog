@@ -8,6 +8,7 @@ website: https://isstracker.pl
 ### Improvement
 - aktualizacja Leaflet oraz Esri
 - push powiadomienia o przelotach otrzymały nowy identyfikator
+- poprawiono sortowanie satelit na listingu 
 
 
 
