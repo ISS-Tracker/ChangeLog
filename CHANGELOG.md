@@ -4,6 +4,13 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+## #31 kosmetyczne zmiany (2019-12-23 13:50)
+### Improvement
+- aktualizacja Leaflet oraz Esri
+- push powiadomienia o przelotach otrzymały nowy identyfikator
+
+
+
 ## #30 kosmetyczne zmiany (2019-12-11 20:20)
 
 ### Improvement
