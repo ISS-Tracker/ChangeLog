@@ -4,6 +4,11 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+## #32 róża wiatrów na podstronach szczegółów przelotu (2019-12-29 10:50)
+### New
+- podstrony szczegółów przelotów otrzymały dodatkowo różę wiatrów jako alterantywę mapy LeafLet
+
+
 ## #31 kosmetyczne zmiany (2019-12-23 13:50)
 ### Improvement
 - aktualizacja Leaflet oraz Esri
