@@ -3,6 +3,10 @@ website: https://isstracker.pl
 ---
 
 # ISSTracker
+## #33 dodawanie przelotów do kalednarza Google (2020-01-04 11:30)
+### New
+- z poziomu podstrony konkretnego przelotu ISS unmożliwonio dodawanie przelotu do kalendarza Google
+
 
 ## #32 róża wiatrów na podstronach szczegółów przelotu (2019-12-29 10:50)
 ### New
