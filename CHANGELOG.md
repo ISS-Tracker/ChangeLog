@@ -7,7 +7,8 @@ website: https://isstracker.pl
 ## #34 jednostki impreialne / metryczne (2020-01-26 10:00)
 ### New
 - umożliwiliśmy wybór pomiędzy jednostkami metrycznymi a imperialnymi 
-
+- agregujemy zdjęcia satelit oraz prezenutjemy je na podstronach satelit (wraz z api)
+- agregujemy kategorie satelit (wkrótce umożliwimy sortowanie)
 
 ## #33 dodawanie przelotów do kalednarza Google (2020-01-04 11:30)
 ### New
