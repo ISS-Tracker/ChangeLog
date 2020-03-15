@@ -4,6 +4,18 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+## #35 duża aktualizacja systemu (2020-05-15 10:00)
+### New
+- nowy serwer statyczy - obrazki APOD oraz satelity agregujemy na naszych serwerach,
+- powiadomienia na WYKOP o nowych przelotach ISS
+- testy mailowych list
+- agregowane powiadomienia o przelotach na Twitter
+
+
+### Improvement
+- wydajniejsze agregacje TOP miast na głównej
+- optymalizacja agregacji i odczytu danych TLE dla wszystkich śledzonych satelit w bazie
+
 ## #34 jednostki impreialne / metryczne (2020-01-26 10:00)
 ### New
 - umożliwiliśmy wybór pomiędzy jednostkami metrycznymi a imperialnymi 
