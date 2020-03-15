@@ -10,7 +10,7 @@ website: https://isstracker.pl
 - powiadomienia na WYKOP o nowych przelotach ISS
 - testy mailowych list
 - agregowane powiadomienia o przelotach na Twitter
-
+- mapa bazowa w ISS Trackerze ze zdjęciami NASA
 
 ### Improvement
 - wydajniejsze agregacje TOP miast na głównej
