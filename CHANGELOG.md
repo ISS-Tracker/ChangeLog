@@ -4,7 +4,17 @@ website: https://isstracker.pl
 
 # ISSTracker
 
-## #35 duża aktualizacja systemu (2020-05-15 10:00)
+## #36 wydanie nowej wersji systemu (2020-04-04 09:000)
+### New
+- nowe podstrony przelotów dla 50% ruchu
+- linkowanie na listingu przelotów - do guzika z licznikiem obserwowań 
+
+### Improvement
+- poprawiony listing APOD (zdjęcia)
+- strzałka na przelotach - guzik
+- poprawa metatagów 
+
+## #35 duża aktualizacja systemu (2020-03-15 10:00)
 ### New
 - nowy serwer statyczy - obrazki APOD oraz satelity agregujemy na naszych serwerach,
 - powiadomienia na WYKOP o nowych przelotach ISS
