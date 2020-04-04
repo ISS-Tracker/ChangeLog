@@ -4,7 +4,7 @@ website: https://isstracker.pl
 
 # ISSTracker
 
-## #36 wydanie nowej wersji systemu (2020-04-04 09:000)
+## #36 wydanie nowej wersji systemu (2020-04-04 09:00)
 ### New
 - nowe podstrony przelotów dla 50% ruchu
 - linkowanie na listingu przelotów - do guzika z licznikiem obserwowań 
