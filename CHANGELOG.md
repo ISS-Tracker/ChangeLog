@@ -4,6 +4,12 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+## #37 wydanie nowej wersji systemu (2020-04-14 19:00)
+### New
+- warstwa chmur na trackerze
+- dodano kierunek przelotu (poruszania się satelit)
+- autodetekcja współrzędnych
+
 ## #36 wydanie nowej wersji systemu (2020-04-04 09:00)
 ### New
 - nowe podstrony przelotów dla 50% ruchu
