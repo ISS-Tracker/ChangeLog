@@ -4,10 +4,17 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+## 38 Drobne poprawki, komentarze do wybranych newsów (2020-04-25 19:00)
+### New 
+- wybrane newsy mogą być komentowane za pomocą wtyczki FB
+
+### Improvement
+- UXowe poprawki na liście przelotow ISS 
+
 ## #37 wydanie nowej wersji systemu (2020-04-14 19:00)
 ### New
 - warstwa chmur na trackerze
-- dodano kierunek przelotu (poruszania się satelit)
+- dodano kierunek przelotu (poruszania się satelitów)
 - autodetekcja współrzędnych
 
 ## #36 wydanie nowej wersji systemu (2020-04-04 09:00)
