@@ -7,6 +7,7 @@ website: https://isstracker.pl
 ## 38 Drobne poprawki, komentarze do wybranych newsów (2020-04-25 19:00)
 ### New 
 - wybrane newsy mogą być komentowane za pomocą wtyczki FB
+- aktualizacja sociali - dodanie instagrama 
 
 ### Improvement
 - UXowe poprawki na liście przelotow ISS 
