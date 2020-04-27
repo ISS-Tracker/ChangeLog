@@ -4,6 +4,14 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+## 39 Drobne poprawki, komentarze do wybranych newsów (2020-04-27 09:00)
+### New 
+- wschody / zachody słońca na szczegółąch przelotów 
+
+### Improvement
+- poprawki literówek
+- UXowa zmiana w menu (bez separatora)
+
 ## 38 Drobne poprawki, komentarze do wybranych newsów (2020-04-25 19:00)
 ### New 
 - wybrane newsy mogą być komentowane za pomocą wtyczki FB
