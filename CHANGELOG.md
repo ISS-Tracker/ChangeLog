@@ -4,6 +4,14 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+## 41 Śledzenie innych satelitów (2020-04-20 08:00)
+### Improvement
+- dokładniejsza agregacja deorbitowanych satelitów.
+
+## 40 Śledzenie innych satelitów (2020-04-29 09:00)
+### New 
+- Krok milowy, aplikacja umożliwia śledzenie również innych satelitów.
+
 ## 39 Drobne poprawki, komentarze do wybranych newsów (2020-04-27 09:00)
 ### New 
 - wschody / zachody słońca na szczegółąch przelotów 
