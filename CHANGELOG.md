@@ -4,6 +4,16 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+
+## 42 Śledzenie innych satelitów (2020-05-11 19:00)
+### Improvement
+- poprawione popupy z informacjami o satelitach
+
+### New 
+- częstotliwości dla wybranych satelitów
+- progress bar podczas trwania przelotów (na podstronie przelotu)
+- detekcja współrzędnych obserwatora 
+
 ## 41 Śledzenie innych satelitów (2020-04-20 08:00)
 ### Improvement
 - dokładniejsza agregacja deorbitowanych satelitów.
