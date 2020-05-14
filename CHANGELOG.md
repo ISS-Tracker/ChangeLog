@@ -3,7 +3,12 @@ website: https://isstracker.pl
 ---
 
 # ISSTracker
+## 43 Śledzenie innych satelitów (2020-05-14 17:00)
+### Improvement
+- ograniczenie powiadomień o przelotach na twitterze - teraz tylko publikujemy zbiorcze powiadomienia 
 
+### New
+- widok tabeli godzin przelotów 
 
 ## 42 Śledzenie innych satelitów (2020-05-11 19:00)
 ### Improvement
