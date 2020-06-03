@@ -3,6 +3,14 @@ website: https://isstracker.pl
 ---
 
 # ISSTracker
+
+## 434 Śledzenie innych satelitów (2020-06--01 17:00)
+### New
+- wiele stref czasowych w aplikacji - etap I
+### Improvement
+- poprawione ustawianie strefy czasowej dla kalendarza google
+- nowy podgląd map w trackerze 
+
 ## 43 Śledzenie innych satelitów (2020-05-14 17:00)
 ### Improvement
 - ograniczenie powiadomień o przelotach na twitterze - teraz tylko publikujemy zbiorcze powiadomienia 
