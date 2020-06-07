@@ -4,7 +4,11 @@ website: https://isstracker.pl
 
 # ISSTracker
 
-## 434 Śledzenie innych satelitów (2020-06--01 17:00)
+## 45 Śledzenie wielu satelitów (2020-06-07 09:00)
+### New
+- umożliwienie śledzenia wielu statelitów jednocześnie 
+
+## 44 Śledzenie innych satelitów (2020-06-01 17:00)
 ### New
 - wiele stref czasowych w aplikacji - etap I
 ### Improvement
