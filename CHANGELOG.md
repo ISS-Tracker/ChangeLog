@@ -4,6 +4,13 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+## 46 Update (2020-06257 21:00)
+### New
+- automatyczne określanie strefy czasowej
+- zmienione zdjęcie domyślnej satelity 
+- nowe boksy na stronie głownej (zamiast social boksów)
+
+
 ## 45 Śledzenie wielu satelitów (2020-06-07 09:00)
 ### New
 - umożliwienie śledzenia wielu statelitów jednocześnie 
