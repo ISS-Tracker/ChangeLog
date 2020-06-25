@@ -4,7 +4,7 @@ website: https://isstracker.pl
 
 # ISSTracker
 
-## 46 Update (2020-06257 21:00)
+## 46 Update (2020-06-25 21:00)
 ### New
 - automatyczne określanie strefy czasowej
 - zmienione zdjęcie domyślnej satelity 
