@@ -4,6 +4,12 @@ website: https://isstracker.pl
 
 # ISSTracker
 
+## 47 Update (2020-07-15 21:00)
+### New
+- optymalizacja zdjęć na przelocie
+- linki do Twittera z przelotami skracamy domeną go.isstracker.pl
+
+
 ## 46 Update (2020-06-25 21:00)
 ### New
 - automatyczne określanie strefy czasowej
