@@ -8,6 +8,11 @@ website: https://isstracker.pl
 ### New
 - optymalizacja zdjęć na przelocie
 - linki do Twittera z przelotami skracamy domeną go.isstracker.pl
+- częstrza archwizacja pozycji / TLE satelitów 
+- Zdjęcia APOD - pełne zdjęcie w sliderze
+- ikona apple - optymalizacja
+- aktualizacja dokumentacji widgetu 
+
 
 
 ## 46 Update (2020-06-25 21:00)
