@@ -3,6 +3,12 @@ website: https://isstracker.pl
 ---
 
 # ISSTracker
+## 48 Update (2020-08-01 21:00)
+### New
+### Improvement
+- usprawniona wyszukiwarka, od teraz sprawniej działa wyszukiwanie po dwóch członach nazw satelitów, umożlwilśmy wyszukiwanie po współrzędnych + porpowiadamy poblickie miejscowości 
+- posty na Wykop - dodajemy od dziś zdjęcia APOD do zajawek 
+- poprawiony został manifest aplikacji
 
 ## 47 Update (2020-07-15 21:00)
 ### New
