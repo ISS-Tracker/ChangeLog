@@ -1,10 +1,19 @@
 ---
 website: https://isstracker.pl
 ---
+# ISSTracker
+## 49 Update (2020-08-21 10:00)
+### New
+- na prawej kolumnie publikujemy TOP śledzone satelity ostatnich dni
+- nowy licznik "obserwacji" przelotów na podstronie przelotów
+- zwiększony limit śledzonych satelitów w Trackerze
+### Improvement
+- poprawione ikonki aplikacji na iOS 
+- poprawa zmiany satelity w Tracekrze
+- poprawa pokazywania / ukrywania orbit satelitów 
 
 # ISSTracker
 ## 48 Update (2020-08-01 21:00)
-### New
 ### Improvement
 - usprawniona wyszukiwarka, od teraz sprawniej działa wyszukiwanie po dwóch członach nazw satelitów, umożlwilśmy wyszukiwanie po współrzędnych + porpowiadamy poblickie miejscowości 
 - posty na Wykop - dodajemy od dziś zdjęcia APOD do zajawek 
