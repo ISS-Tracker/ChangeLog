@@ -2,6 +2,14 @@
 website: https://isstracker.pl
 ---
 # ISSTracker
+## 50 Update wrześniowy (2020-09-01 20:00)
+### New
+- NOWA róża wiatrów na szczegółach przelotów
+- poprawa alertów w ISS JS APP
+- guzik "porozmawiaj o przelocie"
+- więcej zdjęć satelitów (powiękaszamy bazę)
+
+
 ## 49 Update (2020-08-21 10:00)
 ### New
 - na prawej kolumnie publikujemy TOP śledzone satelity ostatnich dni
