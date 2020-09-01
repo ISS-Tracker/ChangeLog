@@ -8,7 +8,7 @@ website: https://isstracker.pl
 - poprawa alertów w ISS JS APP
 - guzik "porozmawiaj o przelocie"
 - więcej zdjęć satelitów (powiękaszamy bazę)
-
+- aktualizacja wersji FontAwesome
 
 ## 49 Update (2020-08-21 10:00)
 ### New
