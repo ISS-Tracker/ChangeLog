@@ -2,6 +2,16 @@
 website: https://isstracker.pl
 ---
 # ISSTracker
+## 51 Update (2020-10-11 16:00)
+### New
+- nowy select wyszukiwania satelitów ISS JS APP
+- RC wersja uploadu materialów(UGC)
+- nowe paraemtry wyszukiwania satelitów (widoczna/niewidoczna)
+### Improvement
+- optymaliazcja asyc ISS JS APP
+- usprawnienie podpowiedzi satelitów w ISS JS APP
+
+
 ## 50 Update wrześniowy (2020-09-01 20:00)
 ### New
 - NOWA róża wiatrów na szczegółach przelotów
