@@ -2,11 +2,20 @@
 website: https://isstracker.pl
 ---
 # ISSTracker
+## 52 Update (2020-1211 16:00)
+### New
+- do push powiadomień dołączamy zdjęcie poglądowe
+- UGC - dodawanie zdjęć przez użytkowników 
+- nowe warstwy pogody w ISS JS APP
+### Improvement
+- poprawa performance ISS JS APP
+
+
 ## 51 Update (2020-10-11 16:00)
 ### New
 - nowy select wyszukiwania satelitów ISS JS APP
 - RC wersja uploadu materialów(UGC)
-- nowe paraemtry wyszukiwania satelitów (widoczna/niewidoczna)
+- nowe parametry wyszukiwania satelitów (widoczna/niewidoczna)
 ### Improvement
 - optymaliazcja asyc ISS JS APP
 - usprawnienie podpowiedzi satelitów w ISS JS APP
