@@ -2,7 +2,7 @@
 website: https://isstracker.pl
 ---
 # ISSTracker
-## 52 Update (2020-1211 16:00)
+## 52 Update (2020-10-24 10:00)
 ### New
 - do push powiadomień dołączamy zdjęcie poglądowe
 - UGC - dodawanie zdjęć przez użytkowników 
