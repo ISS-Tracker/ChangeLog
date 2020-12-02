@@ -2,6 +2,14 @@
 website: https://isstracker.pl
 ---
 # ISSTracker
+## 52 Update (2020-12-02 22:00)
+### New
+- nowe grupy satelitów (Starlink)
+### Improvement
+- zmiany dot. generowania urli na wersji EN, poprawia widoczności serwisu dla EN 
+- wysokość satelitów podana na podstronie satelity
+- tracker udostępnia aktualnie śledzone satelity (issjsapp)
+
 ## 52 Update (2020-10-24 10:00)
 ### New
 - do push powiadomień dołączamy zdjęcie poglądowe
