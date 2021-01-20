@@ -2,6 +2,19 @@
 website: https://isstracker.pl
 ---
 # ISSTracker
+## 54 Update (2021-01-20 17:00)
+### New
+- ulubione satelity
+- testowe breadcrumbsy
+- przyszłe orbity satelitów w ISS JS APP
+- generator widgetu ISS JS APP
+- godziny przelotów satelitów
+### Improvement
+- nowe wykresy satelitów
+- ikony satelitów
+- prace optymalizacyjne
+- faza księżyca - podstrona uzyskała nowe zdjęcia
+
 ## 53 Update (2020-12-02 22:00)
 ### New
 - nowe grupy satelitów (Starlink)
