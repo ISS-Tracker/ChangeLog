@@ -2,6 +2,17 @@
 website: https://isstracker.pl
 ---
 # ISSTracker
+## 55 Update zaległych zmian (2021-04-11 20:20)
+### New
+- zapamiętywanie ustawień IssJsApp do LS
+- agregacja inklinacji dla wszystkich satelitów (backend, front TODO)
+- FAQ dla wszystkich aktywnych satelitów (wysokość, prędkość)
+- dni na orbicie satelity (po deorbitacj)
+- dedykowana podstrona statystk
+### Improvement
+- prace optymalizacyjne SEO
+- poprawa statystyk obserwowanych satelitów 
+- mobilna reklama na SG
 ## 54 Update (2021-01-20 17:00)
 ### New
 - ulubione satelity
